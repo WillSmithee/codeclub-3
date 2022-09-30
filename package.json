@@ -9,4 +9,4 @@
     "start": "wrangler dev",
     "deploy": "wrangler publish"
   }
-}
+} 

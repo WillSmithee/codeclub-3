@@ -3,4 +3,4 @@ account_id = "a8504cbbaac4bbc139151414bd1ee748"
 workers_dev = true
 compatibility_date = "2022-05-03"
 main = "./src/index.js"
-usage_model = "unbound"
+usage_model = "unbound" 

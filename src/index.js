@@ -6,7 +6,7 @@
  * - Run `npx wrangler publish src/index.js --name my-worker` to publish your worker
  *
  * Learn more at https://developers.cloudflare.com/workers/
- */
+ */ 
 export default {
   async fetch(request) {
     // Initialize a variable for the response
