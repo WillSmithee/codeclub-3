@@ -1,4 +1,5 @@
-# $\textcolor{BurntOrange}{\textsf{Assignment  3}}$ - APIs, Bots, and Cat
+# $\definecolor{cf-orange}{RGB}{246, 130, 31}\textcolor{cf-orange}{\textsf{Assignment  3}}$ - APIs, Bots, and Cat
+
  - We saw the immutability of inbound requests, the available properties of Request.cf, how to create new subrequests, how to create new responses, get and set headers.  
  - Create a worker (or expand existing code) to handle automated traffic differently.
    - Send human traffic to an origin
