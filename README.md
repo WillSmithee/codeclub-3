@@ -10,3 +10,6 @@
 - (Optional) If you need an API endpoint in your lab account:
   - Create a CNAME DNS record to [petstore3.swagger.io](https://petstore3.swagger.io)
   - Set a Page Rule with Host Header Override = petstore3.swagger.io“
+
+# 
+<img width="170" height="63.163" src="https://blog-cloudflare-com-assets.storage.googleapis.com/2019/06/logo-cloudflare-dark-1.svg">
